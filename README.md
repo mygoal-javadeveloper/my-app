@@ -9,4 +9,14 @@ the path should be the folder my-app where pom.xml is present and run with comma
 How to create a jar file?
 the path should be the folder my-app where pom.xml is present and run with command
 `mvn package`
+How to run the program?
+the path should be the folder my-app where pom.xml is present and run with command
+`mvn eclipse:eclipse`
+Now go to EclipseJEE IDE
+Go to Window - Perspective - Open Perspective -Other - Git
+Go to file import then go to Maven and select Existing Maven Projects
+After the project is imported in EclipseJEE go to my-app project in Git Repositories Perspective that go to folder **Working Tree**
+then go to src - main - java - com - mycompany- app and select **App.java** and then run.
+
+
 
