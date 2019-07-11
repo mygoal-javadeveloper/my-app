@@ -22,6 +22,7 @@
 >How to run the program?
 >
 >>The path should be the folder my-app where pom.xml is present and run with command
+>
 >>	`mvn eclipse:eclipse`
 >
 >>Now go to EclipseJEE IDE
